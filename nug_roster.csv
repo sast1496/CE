@@ -1,0 +1,133 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SEASON_ID
+0,1610612743,2022,00,Christian Braun,Christian,christian-braun,0,G,6-6,220,"APR 17, 2001",22.0,R,Kansas,1631128,#21 Pick in 2022 Draft,2022-23
+1,1610612743,2022,00,Michael Porter Jr.,Michael,michael-porter-jr,1,F,6-10,218,"JUN 29, 1998",25.0,3,Missouri,1629008,#14 Pick in 2018 Draft,2022-23
+2,1610612743,2022,00,Kentavious Caldwell-Pope,Kentavious,kentavious-caldwell-pope,5,G,6-5,204,"FEB 18, 1993",30.0,9,Georgia,203484,Traded from WAS on 07/06/22,2022-23
+3,1610612743,2022,00,DeAndre Jordan,DeAndre,deandre-jordan,6,C,6-11,265,"JUL 21, 1988",34.0,14,Texas A&M,201599,Signed on 07/11/22,2022-23
+4,1610612743,2022,00,Reggie Jackson,Reggie,reggie-jackson,7,G,6-2,208,"APR 16, 1990",33.0,11,Boston College,202704,Signed on 02/14/23,2022-23
+5,1610612743,2022,00,Peyton Watson,Peyton,peyton-watson,8,G,6-7,200,"SEP 11, 2002",20.0,R,UCLA,1631212,Draft Rights Traded from OKC on 06/23/22,2022-23
+6,1610612743,2022,00,Jack White,Jack,jack-white,10,F,6-7,225,"AUG 05, 1997",25.0,R,Duke,1631298,,2022-23
+7,1610612743,2022,00,Bruce Brown,Bruce,bruce-brown,11,G-F,6-4,202,"AUG 15, 1996",26.0,4,Miami,1628971,,2022-23
+8,1610612743,2022,00,Thomas Bryant,Thomas,thomas-bryant,13,C-F,6-10,248,"JUL 31, 1997",25.0,5,Indiana,1628418,,2022-23
+9,1610612743,2022,00,Ish Smith,Ish,ish-smith,14,G,6-0,175,"JUL 05, 1988",34.0,12,Wake Forest,202397,,2022-23
+10,1610612743,2022,00,Nikola Jokic,Nikola,nikola-jokic,15,C,6-11,284,"FEB 19, 1995",28.0,7,Mega Basket,203999,#41 Pick in 2014 Draft,2022-23
+11,1610612743,2022,00,Collin Gillespie,Collin,collin-gillespie,21,G,6-1,195,"JUN 25, 1999",24.0,R,Villanova,1631221,Signed on 07/03/22,2022-23
+12,1610612743,2022,00,Zeke Nnaji,Zeke,zeke-nnaji,22,F-C,6-9,240,"JAN 09, 2001",22.0,2,Arizona,1630192,#22 Pick in 2020 Draft,2022-23
+13,1610612743,2022,00,Jamal Murray,Jamal,jamal-murray,27,G,6-4,215,"FEB 23, 1997",26.0,5,Kentucky,1627750,#7 Pick in 2016 Draft,2022-23
+14,1610612743,2022,00,Vlatko Cancar,Vlatko,vlatko-cancar,31,F,6-8,236,"APR 10, 1997",26.0,3,San Pablo Burgos,1628427,#49 Pick in 2017 Draft,2022-23
+15,1610612743,2022,00,Jeff Green,Jeff,jeff-green,32,F,6-8,235,"AUG 28, 1986",36.0,14,Georgetown,201145,,2022-23
+16,1610612743,2022,00,Aaron Gordon,Aaron,aaron-gordon,50,F,6-8,235,"SEP 16, 1995",27.0,8,Arizona,203932,Traded from ORL on 03/25/21,2022-23
+0,1610612743,2021,00,Markus Howard,Markus,markus-howard,00,G,5-10,175,"MAR 03, 1999",23.0,1,Marquette,1630210,,2021-22
+1,1610612743,2021,00,JaMychal Green,JaMychal,jamychal-green,,F-C,6-8,227,"JUN 21, 1990",32.0,7,Alabama,203210,,2021-22
+2,1610612743,2021,00,Michael Porter Jr.,Michael,michael-porter-jr,1,F,6-10,218,"JUN 29, 1998",24.0,2,Missouri,1629008,#14 Pick in 2018 Draft,2021-22
+3,1610612743,2021,00,Bones Hyland,Bones,bones-hyland,3,G,6-2,169,"SEP 14, 2000",21.0,R,Virginia Commonwealth,1630538,,2021-22
+4,1610612743,2021,00,DeMarcus Cousins,DeMarcus,demarcus-cousins,4,C,6-10,270,"AUG 13, 1990",31.0,10,Kentucky,202326,,2021-22
+5,1610612743,2021,00,Will Barton,Will,will-barton,5,G,6-5,181,"JAN 06, 1991",31.0,9,Memphis,203115,,2021-22
+6,1610612743,2021,00,Bryn Forbes,Bryn,bryn-forbes,6,G,6-2,205,"JUL 23, 1993",28.0,5,Michigan State,1627854,,2021-22
+7,1610612743,2021,00,Facundo Campazzo,Facundo,facundo-campazzo,7,G,5-10,195,"MAR 23, 1991",31.0,1,Murcia,1630267,,2021-22
+8,1610612743,2021,00,Davon Reed,Davon,davon-reed,9,G,6-5,206,"JUN 11, 1995",27.0,2,Miami,1628432,,2021-22
+9,1610612743,2021,00,Monte Morris,Monte,monte-morris,11,G,6-2,183,"JUN 27, 1995",27.0,4,Iowa State,1628420,,2021-22
+10,1610612743,2021,00,Nikola Jokic,Nikola,nikola-jokic,15,C,6-11,284,"FEB 19, 1995",27.0,6,Mega Basket,203999,#41 Pick in 2014 Draft,2021-22
+11,1610612743,2021,00,Zeke Nnaji,Zeke,zeke-nnaji,22,F-C,6-9,240,"JAN 09, 2001",21.0,1,Arizona,1630192,#22 Pick in 2020 Draft,2021-22
+12,1610612743,2021,00,Austin Rivers,Austin,austin-rivers,25,G,6-4,200,"AUG 01, 1992",29.0,9,Duke,203085,,2021-22
+13,1610612743,2021,00,Jamal Murray,Jamal,jamal-murray,27,G,6-3,215,"FEB 23, 1997",25.0,5,Kentucky,1627750,#7 Pick in 2016 Draft,2021-22
+14,1610612743,2021,00,Vlatko Cancar,Vlatko,vlatko-cancar,31,F,6-8,236,"APR 10, 1997",25.0,2,San Pablo Burgos,1628427,#49 Pick in 2017 Draft,2021-22
+15,1610612743,2021,00,Jeff Green,Jeff,jeff-green,32,F,6-8,235,"AUG 28, 1986",35.0,13,Georgetown,201145,,2021-22
+16,1610612743,2021,00,Aaron Gordon,Aaron,aaron-gordon,50,F,6-8,235,"SEP 16, 1995",26.0,7,Arizona,203932,Traded from ORL on 03/25/21,2021-22
+0,1610612743,2020,00,Markus Howard,Markus,markus-howard,00,G,5-10,175,"MAR 03, 1999",22.0,R,Marquette,1630210,,2020-21
+1,1610612743,2020,00,JaMychal Green,JaMychal,jamychal-green,0,F-C,6-8,227,"JUN 21, 1990",31.0,6,Alabama,203210,,2020-21
+2,1610612743,2020,00,Michael Porter Jr.,Michael,michael-porter-jr,1,F,6-10,218,"JUN 29, 1998",23.0,1,Missouri,1629008,#14 Pick in 2018 Draft,2020-21
+3,1610612743,2020,00,Shaquille Harrison,Shaquille,shaquille-harrison,3,G,6-7,190,"OCT 06, 1993",27.0,3,Tulsa,1627885,,2020-21
+4,1610612743,2020,00,Paul Millsap,Paul,paul-millsap,4,F,6-7,257,"FEB 10, 1985",36.0,14,Louisiana Tech,200794,,2020-21
+5,1610612743,2020,00,Will Barton,Will,will-barton,5,G,6-6,181,"JAN 06, 1991",30.0,8,Memphis,203115,,2020-21
+6,1610612743,2020,00,Facundo Campazzo,Facundo,facundo-campazzo,7,G,5-10,195,"MAR 23, 1991",30.0,R,Murcia,1630267,,2020-21
+7,1610612743,2020,00,Bol Bol,Bol,bol-bol,10,C-F,7-2,220,"NOV 16, 1999",21.0,1,Oregon,1629626,,2020-21
+8,1610612743,2020,00,Monte Morris,Monte,monte-morris,11,G,6-2,183,"JUN 27, 1995",26.0,3,Iowa State,1628420,,2020-21
+9,1610612743,2020,00,Nikola Jokic,Nikola,nikola-jokic,15,C,6-11,284,"FEB 19, 1995",26.0,5,Mega Basket,203999,#41 Pick in 2014 Draft,2020-21
+10,1610612743,2020,00,Zeke Nnaji,Zeke,zeke-nnaji,22,F-C,6-9,240,"JAN 09, 2001",20.0,R,Arizona,1630192,#22 Pick in 2020 Draft,2020-21
+11,1610612743,2020,00,Austin Rivers,Austin,austin-rivers,25,G,6-4,200,"AUG 01, 1992",28.0,8,Duke,203085,,2020-21
+12,1610612743,2020,00,Jamal Murray,Jamal,jamal-murray,27,G,6-3,215,"FEB 23, 1997",24.0,4,Kentucky,1627750,#7 Pick in 2016 Draft,2020-21
+13,1610612743,2020,00,Vlatko Cancar,Vlatko,vlatko-cancar,31,F,6-8,236,"APR 10, 1997",24.0,1,San Pablo Burgos,1628427,#49 Pick in 2017 Draft,2020-21
+14,1610612743,2020,00,JaVale McGee,JaVale,javale-mcgee,34,C-F,7-0,270,"JAN 19, 1988",33.0,12,Nevada,201580,,2020-21
+15,1610612743,2020,00,PJ Dozier,PJ,pj-dozier,35,G-F,6-6,205,"OCT 25, 1996",24.0,3,South Carolina,1628408,,2020-21
+16,1610612743,2020,00,Aaron Gordon,Aaron,aaron-gordon,50,F,6-8,235,"SEP 16, 1995",25.0,6,Arizona,203932,Traded from ORL on 03/25/21,2020-21
+0,1610612743,2019,00,Michael Porter Jr.,Michael,michael-porter-jr,1,F,6-10,218,"JUN 29, 1998",22.0,R,Missouri,1629008,#14 Pick in 2018 Draft,2019-20
+1,1610612743,2019,00,Torrey Craig,Torrey,torrey-craig,3,F,6-7,221,"DEC 19, 1990",29.0,2,South Carolina Upstate,1628470,,2019-20
+2,1610612743,2019,00,Paul Millsap,Paul,paul-millsap,4,F,6-7,257,"FEB 10, 1985",35.0,13,Louisiana Tech,200794,,2019-20
+3,1610612743,2019,00,Will Barton,Will,will-barton,5,G,6-5,181,"JAN 06, 1991",29.0,7,Memphis,203115,,2019-20
+4,1610612743,2019,00,Keita Bates-Diop,Keita,keita-bates-diop,6,F,6-8,229,"JAN 23, 1996",24.0,1,Ohio State,1628966,,2019-20
+5,1610612743,2019,00,Mason Plumlee,Mason,mason-plumlee,7,F-C,6-11,254,"MAR 05, 1990",30.0,6,Duke,203486,,2019-20
+6,1610612743,2019,00,Jerami Grant,Jerami,jerami-grant,9,F,6-8,210,"MAR 12, 1994",26.0,5,Syracuse,203924,,2019-20
+7,1610612743,2019,00,Bol Bol,Bol,bol-bol,10,C-F,7-2,220,"NOV 16, 1999",20.0,R,Oregon,1629626,,2019-20
+8,1610612743,2019,00,Monte Morris,Monte,monte-morris,11,G,6-2,183,"JUN 27, 1995",25.0,2,Iowa State,1628420,,2019-20
+9,1610612743,2019,00,Gary Harris,Gary,gary-harris,14,G,6-4,210,"SEP 14, 1994",25.0,5,Michigan State,203914,,2019-20
+10,1610612743,2019,00,Nikola Jokic,Nikola,nikola-jokic,15,C,7-0,284,"FEB 19, 1995",25.0,4,Mega Basket,203999,#41 Pick in 2014 Draft,2019-20
+11,1610612743,2019,00,Tyler Cook,Tyler,tyler-cook,25,F,6-8,255,"SEP 23, 1997",22.0,R,Iowa,1629076,,2019-20
+12,1610612743,2019,00,Jamal Murray,Jamal,jamal-murray,27,G,6-4,215,"FEB 23, 1997",23.0,3,Kentucky,1627750,#7 Pick in 2016 Draft,2019-20
+13,1610612743,2019,00,Troy Daniels,Troy,troy-daniels,30,G,6-4,200,"JUL 15, 1991",28.0,6,Virginia Commonwealth,203584,,2019-20
+14,1610612743,2019,00,Vlatko Cancar,Vlatko,vlatko-cancar,31,F,6-8,236,"APR 10, 1997",23.0,R,San Pablo Burgos,1628427,#49 Pick in 2017 Draft,2019-20
+15,1610612743,2019,00,Noah Vonleh,Noah,noah-vonleh,32,F,6-10,257,"AUG 24, 1995",24.0,5,Indiana,203943,,2019-20
+16,1610612743,2019,00,PJ Dozier,PJ,pj-dozier,35,G-F,6-6,205,"OCT 25, 1996",23.0,2,South Carolina,1628408,,2019-20
+0,1610612743,2018,00,Isaiah Thomas,Isaiah,isaiah-thomas,0,G,5-9,185,"FEB 07, 1989",30.0,7,Washington,202738,,2018-19
+1,1610612743,2018,00,Michael Porter Jr.,Michael,michael-porter-jr,1,F,6-10,210,"JUN 29, 1998",21.0,R,Missouri,1629008,#14 Pick in 2018 Draft,2018-19
+2,1610612743,2018,00,Torrey Craig,Torrey,torrey-craig,3,F,6-7,215,"DEC 19, 1990",28.0,1,South Carolina Upstate,1628470,,2018-19
+3,1610612743,2018,00,Paul Millsap,Paul,paul-millsap,4,F,6-8,246,"FEB 10, 1985",34.0,12,Louisiana Tech,200794,,2018-19
+4,1610612743,2018,00,Will Barton,Will,will-barton,5,G,6-6,190,"JAN 06, 1991",28.0,6,Memphis,203115,,2018-19
+5,1610612743,2018,00,Brandon Goodwin,Brandon,brandon-goodwin,6,G,6-2,180,"OCT 02, 1995",23.0,R,Florida Gulf Coast,1629164,,2018-19
+6,1610612743,2018,00,Trey Lyles,Trey,trey-lyles,7,F,6-10,234,"NOV 05, 1995",23.0,3,Kentucky,1626168,,2018-19
+7,1610612743,2018,00,Jarred Vanderbilt,Jarred,jarred-vanderbilt,8,F,6-9,214,"APR 03, 1999",20.0,R,Kentucky,1629020,,2018-19
+8,1610612743,2018,00,Monte Morris,Monte,monte-morris,11,G,6-3,175,"JUN 27, 1995",24.0,1,Iowa State,1628420,,2018-19
+9,1610612743,2018,00,Gary Harris,Gary,gary-harris,14,G,6-4,210,"SEP 14, 1994",24.0,4,Michigan State,203914,,2018-19
+10,1610612743,2018,00,Nikola Jokic,Nikola,nikola-jokic,15,C,7-0,250,"FEB 19, 1995",24.0,3,Mega Basket,203999,#41 Pick in 2014 Draft,2018-19
+11,1610612743,2018,00,Tyler Lydon,Tyler,tyler-lydon,20,F,6-10,225,"APR 09, 1996",23.0,1,Syracuse,1628399,,2018-19
+12,1610612743,2018,00,Mason Plumlee,Mason,mason-plumlee,24,F-C,6-11,235,"MAR 05, 1990",29.0,5,Duke,203486,,2018-19
+13,1610612743,2018,00,Malik Beasley,Malik,malik-beasley,25,G,6-5,195,"NOV 26, 1996",22.0,2,Florida State,1627736,,2018-19
+14,1610612743,2018,00,Jamal Murray,Jamal,jamal-murray,27,G,6-4,207,"FEB 23, 1997",22.0,2,Kentucky,1627750,#7 Pick in 2016 Draft,2018-19
+15,1610612743,2018,00,Juancho Hernangomez,Juancho,juancho-hernangomez,41,F,6-9,230,"SEP 28, 1995",23.0,2,Estudiantes,1627823,,2018-19
+16,1610612743,2018,00,Thomas Welsh,Thomas,thomas-welsh,45,C,7-0,255,"FEB 03, 1996",23.0,R,UCLA,1629118,,2018-19
+0,1610612743,2017,00,Darrell Arthur,Darrell,darrell-arthur,00,F,6-9,235,"MAR 25, 1988",30.0,8,Kansas,201589,,2017-18
+1,1610612743,2017,00,Torrey Craig,Torrey,torrey-craig,3,G-F,6-6,215,"DEC 19, 1990",27.0,R,South Carolina Upstate,1628470,,2017-18
+2,1610612743,2017,00,Paul Millsap,Paul,paul-millsap,4,F,6-8,246,"FEB 10, 1985",33.0,11,Louisiana Tech,200794,,2017-18
+3,1610612743,2017,00,Will Barton,Will,will-barton,5,F-G,6-6,190,"JAN 06, 1991",27.0,5,Memphis,203115,,2017-18
+4,1610612743,2017,00,Trey Lyles,Trey,trey-lyles,7,F,6-10,234,"NOV 05, 1995",22.0,2,Kentucky,1626168,,2017-18
+5,1610612743,2017,00,Monte Morris,Monte,monte-morris,11,G,6-3,175,"JUN 27, 1995",23.0,R,Iowa State,1628420,,2017-18
+6,1610612743,2017,00,Gary Harris,Gary,gary-harris,14,G,6-4,210,"SEP 14, 1994",23.0,3,Michigan State,203914,,2017-18
+7,1610612743,2017,00,Nikola Jokic,Nikola,nikola-jokic,15,C,6-10,250,"FEB 19, 1995",23.0,2,Mega Basket,203999,#41 Pick in 2014 Draft,2017-18
+8,1610612743,2017,00,Tyler Lydon,Tyler,tyler-lydon,20,F,6-9,220,"APR 09, 1996",22.0,R,Syracuse,1628399,,2017-18
+9,1610612743,2017,00,Wilson Chandler,Wilson,wilson-chandler,21,F,6-9,225,"MAY 10, 1987",31.0,9,DePaul,201163,,2017-18
+10,1610612743,2017,00,Richard Jefferson,Richard,richard-jefferson,22,F,6-7,233,"JUN 21, 1980",38.0,16,Arizona,2210,,2017-18
+11,1610612743,2017,00,Mason Plumlee,Mason,mason-plumlee,24,C-F,6-11,255,"MAR 05, 1990",28.0,4,Duke,203486,,2017-18
+12,1610612743,2017,00,Malik Beasley,Malik,malik-beasley,25,G,6-5,196,"NOV 26, 1996",21.0,1,Florida State,1627736,,2017-18
+13,1610612743,2017,00,Jamal Murray,Jamal,jamal-murray,27,G,6-4,207,"FEB 23, 1997",21.0,1,Kentucky,1627750,#7 Pick in 2016 Draft,2017-18
+14,1610612743,2017,00,Devin Harris,Devin,devin-harris,34,G,6-3,185,"FEB 27, 1983",35.0,13,Wisconsin,2734,,2017-18
+15,1610612743,2017,00,Kenneth Faried,Kenneth,kenneth-faried,35,F,6-8,228,"NOV 19, 1989",28.0,6,Morehead State,202702,,2017-18
+16,1610612743,2017,00,Juancho Hernangomez,Juancho,juancho-hernangomez,41,F,6-9,230,"SEP 28, 1995",22.0,1,Estudiantes,1627823,,2017-18
+0,1610612743,2016,00,Emmanuel Mudiay,Emmanuel,emmanuel-mudiay,0,G,6-5,200,"MAR 05, 1996",21.0,1,Guangdong,1626144,,2016-17
+1,1610612743,2016,00,Darrell Arthur,Darrell,darrell-arthur,00,F,6-9,235,"MAR 25, 1988",29.0,7,Kansas,201589,,2016-17
+2,1610612743,2016,00,Jameer Nelson,Jameer,jameer-nelson,1,G,6-0,190,"FEB 09, 1982",35.0,12,St. Joseph's (PA),2749,,2016-17
+3,1610612743,2016,00,Mike Miller,Mike,mike-miller,3,G-F,6-8,218,"FEB 19, 1980",37.0,16,Florida,2034,,2016-17
+4,1610612743,2016,00,Will Barton,Will,will-barton,5,G-F,6-6,175,"JAN 06, 1991",26.0,4,Memphis,203115,,2016-17
+5,1610612743,2016,00,Danilo Gallinari,Danilo,danilo-gallinari,8,F,6-10,225,"AUG 08, 1988",28.0,7,Olimpia Milano,201568,,2016-17
+6,1610612743,2016,00,Gary Harris,Gary,gary-harris,14,G,6-4,210,"SEP 14, 1994",22.0,2,Michigan State,203914,,2016-17
+7,1610612743,2016,00,Nikola Jokic,Nikola,nikola-jokic,15,F-C,6-10,250,"FEB 19, 1995",22.0,1,Mega Basket,203999,#41 Pick in 2014 Draft,2016-17
+8,1610612743,2016,00,Wilson Chandler,Wilson,wilson-chandler,21,F,6-8,225,"MAY 10, 1987",30.0,8,DePaul,201163,,2016-17
+9,1610612743,2016,00,Mason Plumlee,Mason,mason-plumlee,24,C,6-11,255,"MAR 05, 1990",27.0,3,Duke,203486,,2016-17
+10,1610612743,2016,00,Malik Beasley,Malik,malik-beasley,25,G,6-5,196,"NOV 26, 1996",20.0,R,Florida State,1627736,,2016-17
+11,1610612743,2016,00,Jamal Murray,Jamal,jamal-murray,27,G,6-4,207,"FEB 23, 1997",20.0,R,Kentucky,1627750,#7 Pick in 2016 Draft,2016-17
+12,1610612743,2016,00,Roy Hibbert,Roy,roy-hibbert,34,C,7-2,270,"DEC 11, 1986",30.0,8,Georgetown,201579,,2016-17
+13,1610612743,2016,00,Kenneth Faried,Kenneth,kenneth-faried,35,F,6-8,228,"NOV 19, 1989",27.0,5,Morehead State,202702,,2016-17
+14,1610612743,2016,00,Juancho Hernangomez,Juancho,juancho-hernangomez,41,F,6-9,230,"SEP 28, 1995",21.0,R,Estudiantes,1627823,,2016-17
+0,1610612743,2015,00,Emmanuel Mudiay,Emmanuel,emmanuel-mudiay,0,G,6-5,200,"MAR 05, 1996",20.0,R,Guangdong,1626144,,2015-16
+1,1610612743,2015,00,Darrell Arthur,Darrell,darrell-arthur,00,F,6-9,235,"MAR 25, 1988",28.0,6,Kansas,201589,,2015-16
+2,1610612743,2015,00,Jameer Nelson,Jameer,jameer-nelson,1,G,6-0,190,"FEB 09, 1982",34.0,11,St. Joseph's (PA),2749,,2015-16
+3,1610612743,2015,00,Mike Miller,Mike,mike-miller,3,G-F,6-8,218,"FEB 19, 1980",36.0,15,Florida,2034,,2015-16
+4,1610612743,2015,00,Will Barton,Will,will-barton,5,F-G,6-6,175,"JAN 06, 1991",25.0,3,Memphis,203115,,2015-16
+5,1610612743,2015,00,Axel Toupane,Axel,axel-toupane,6,G-F,6-7,210,"JUL 23, 1992",23.0,R,Strasbourg IG,1626253,,2015-16
+6,1610612743,2015,00,Danilo Gallinari,Danilo,danilo-gallinari,8,F,6-10,225,"AUG 08, 1988",27.0,6,Olimpia Milano,201568,,2015-16
+7,1610612743,2015,00,JaKarr Sampson,JaKarr,jakarr-sampson,9,G-F,6-9,214,"MAR 20, 1993",23.0,1,St. John's (NY),203960,,2015-16
+8,1610612743,2015,00,D.J. Augustin,D.J.,dj-augustin,12,G,6-0,183,"NOV 10, 1987",28.0,7,Texas,201571,,2015-16
+9,1610612743,2015,00,Gary Harris,Gary,gary-harris,14,G,6-4,210,"SEP 14, 1994",21.0,1,Michigan State,203914,,2015-16
+10,1610612743,2015,00,Nikola Jokic,Nikola,nikola-jokic,15,C,6-10,250,"FEB 19, 1995",21.0,R,Mega Basket,203999,#41 Pick in 2014 Draft,2015-16
+11,1610612743,2015,00,Wilson Chandler,Wilson,wilson-chandler,21,F,6-8,225,"MAY 10, 1987",29.0,8,DePaul,201163,,2015-16
+12,1610612743,2015,00,Jusuf Nurkic,Jusuf,jusuf-nurkic,23,C,7-0,280,"AUG 23, 1994",21.0,1,Cedevita,203994,,2015-16
+13,1610612743,2015,00,Kenneth Faried,Kenneth,kenneth-faried,35,F,6-8,228,"NOV 19, 1989",26.0,4,Morehead State,202702,,2015-16
+14,1610612743,2015,00,Joffrey Lauvergne,Joffrey,joffrey-lauvergne,77,C-F,6-11,220,"SEP 30, 1991",24.0,1,Khimki,203530,,2015-16
